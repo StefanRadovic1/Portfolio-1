@@ -19,7 +19,7 @@ Personal stock portfolio tracker analyzing 6 stocks (AAPL, AMZN, MSFT, SEDG, TSL
 - Period parameter: Last 4/8 Weeks, 6 Months, All
 - Action Filter for interactivity between charts
 
-![Stock Performance Dashboard](Stock_Performance_Dashboard.png)
+![Stock Performance Dashboard](TableauDashboard1.png)
 
 ---
 
@@ -42,4 +42,4 @@ Analysis of 4,012 UK bank customers across England, Scotland, Wales and Northern
 - Animation through time using Pages shelf
 - Action Filter connecting all charts interactively
 
-![UK Bank Customer Analysis Dashboard](UK_Bank_Customer_Analysis_Dashboard.png)
+![UK Bank Customer Analysis Dashboard](TableauDashboard2.png)
