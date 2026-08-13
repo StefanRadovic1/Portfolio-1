@@ -43,14 +43,3 @@ Designed and implemented a relational database with six tables, including primar
 Performed end-to-end exploratory data analysis including data cleaning, outlier detection, univariate, bivariate, and multivariate analysis, statistical analysis, and data visualization.
 
 **Tools & Skills:** Python, pandas, matplotlib, seaborn, plotly, statsmodels, scikit-learn
-
----
-
-## Technologies
-
-**Data Preparation & Automation:** Alteryx Designer  
-**Data & Analytics:** Python, SQL  
-**Business Intelligence:** Power BI, Tableau  
-**Cloud Analytics:** Microsoft Fabric  
-**AI-Assisted Analytics:** Power BI Copilot  
-**Data Modeling:** Star Schema, Semantic Models, DAX, Power Query
