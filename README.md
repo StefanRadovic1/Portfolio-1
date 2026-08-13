@@ -1,5 +1,4 @@
 # Data Analytics Portfolio
-This portfolio contains data analytics work from internship, demonstrating end-to-end skills from database design to visualization.
 
 ## SQL
 Designed and implemented a relational database with 6 tables, including primary keys, foreign key constraints, and referential integrity. Wrote analytical queries using JOINs, subqueries, UNION ALL, window functions (RANK), GROUP BY, aggregations, and date functions. Created 3 views for reporting and a fact table for Power BI integration.
